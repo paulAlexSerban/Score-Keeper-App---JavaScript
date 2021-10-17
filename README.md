@@ -1,1 +1,1 @@
-# Score-Keeper-App---JavaScript
+# JS-Score-Keeper-App
